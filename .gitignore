@@ -1,0 +1,5 @@
+# esto es para que al subir los archivos a github y son muy pesados ignore los pesados
+node_modules
+.env
+
+# git init en la terminal
